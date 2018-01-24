@@ -1,0 +1,40 @@
+*{
+font-family: Arial;
+}
+.container{
+    width: 1000px;
+    height: 2000px;
+    border: solid 1px lightgray;
+    background-color: whitesmoke;
+}
+
+.row{
+       margin: 10px;
+       border-bottom: solid 1px lightgray;
+}
+.col{
+    border-bottom: solid 1px lightgray;
+    padding-bottom: 5px;
+}
+.col-3{
+    margin-top: 20px;
+    border-right: solid 1px lightgray;
+}
+h1{
+    letter-spacing: 6px;
+    font-family: Helvetica;
+    font-size: 60px;
+}
+.col-4{
+    text-align: right;
+    font-style: italic;
+    
+}
+h2{
+    font-size: 28px;
+    color: lightgray;
+    letter-spacing: 2px;
+}
+
+
+    
